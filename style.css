@@ -2,8 +2,8 @@ body {
 	width: 100wh;
 	height: 90vh;
 	color: #fff;
-	background: linear-gradient(-90deg, #fa1c0c, #eb7c15, #e4eb15, #75eb15, #158beb, #7515eb, #eb15a7);
-	background-size: 800% 800%;
+	background: linear-gradient(-90deg, #000000, #b51818, #ffffff, #b51818, #000000);
+	background-size: 7800% 7800%;
 	-webkit-animation: Gradient 5s ease infinite;
 	-moz-animation: Gradient 5s ease infinite;
 	animation: Gradient 5s ease infinite;
@@ -52,15 +52,5 @@ h{
   top: 50%;
   left: 50%;
   margin-right: -50%;
-  transform: translate(-50%, -120%)
-}
-
-p1{
-  font-size: 32px;
-  font-family: 'Quicksand', sans-serif;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, 120%)
+  transform: translate(-50%, -100%)
 }
